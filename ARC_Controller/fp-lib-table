@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ARC_Footprints") (type "KiCad") (uri "${KIPRJMOD}/ARC_Footprints.pretty") (options "") (descr ""))
+)

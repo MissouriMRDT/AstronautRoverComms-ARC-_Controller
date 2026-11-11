@@ -669,13 +669,17 @@
         "uuid": "e1b15ee9-1f46-4532-a7fe-b8484243b354"
       }
     ],
-    "used_designators": "#PWR1-6,B1,C1-6,L1,R1-8,U1-2",
+    "used_designators": "#PWR1-20,B1,C1-16,D1-4,J1,L1-2,Q1,R1-16,SW1,TH1,U1-4",
     "variants": []
   },
   "sheets": [
     [
       "e1b15ee9-1f46-4532-a7fe-b8484243b354",
       "ARC_Controller"
+    ],
+    [
+      "e75b2b6b-dd0d-4840-a331-6457994c54e4",
+      "Power & Battery"
     ]
   ],
   "text_variables": {},
